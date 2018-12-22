@@ -4,4 +4,4 @@ I believe in learning, even if that means studying things you already know.  Her
 ## What you'll find here:
 **Challenges**: an opportunity to practice programming and data science by completing structured problems; similar to missions, but with little instructional material and harder exercises.
 
-**Guided Projects**: 
+**Guided Projects**: less structured and focus more on exploration.
