@@ -1,8 +1,7 @@
-# dataQuestin
-A repo for various DataQuest Challenges and Guided projects
+# dataQuestin'
+I believe in learning, even if that means studying things you already know.  Here I collect the various challenges and projects that are part of the 3 Python levels at [Dataquest.io](https://www.dataquest.io).
 
-## Getting Started
-Here are some resources for those just getting started:
-- [Where to begin with Git](https://guides.github.com/activities/hello-world/)
-- [How to make a folder](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser)
-- [Markdown Cheatsheet](https://daringfireball.net/projects/markdown/)
+## What you'll find here:
+**Challenges**: an opportunity to practice programming and data science by completing structured problems; similar to missions, but with little instructional material and harder exercises.
+
+**Guided Projects**: 
