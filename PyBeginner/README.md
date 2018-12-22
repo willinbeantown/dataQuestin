@@ -6,7 +6,7 @@ Practice working with files, loops, and if statements using [unisex name data](h
 
 ## Guided Porjects
 ### Using Jupyter Notebook
-Learn how to perform analysis and communicate results with Jupyter notebook.
+Learn how to perform analysis and communicate results with [Jupyter](http://jupyter.org/) notebook.
 
 ### Explore U.S. Births
-Practice the basics of Python by analyzing births in the U.S.
+Practice the basics of [Python](https://www.python.org/) by analyzing births in the U.S.
